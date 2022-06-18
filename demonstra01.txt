@@ -1,0 +1,96 @@
+So we have :
+
+>>>> 4 managers
+>>>> Blockchain for : 7 blocks
+
+
+>>>> X IoT device (Sensor)
+
+
+
+>>>>> and now, we will increase the number of Attacker (the number actaul its 1 attackers)  >>>>> 
+
+
+So when, the number of attacke (more or eqauls)=> number managers >>>> we will see the reaction from VTA process by eliming all of them and stiill provide the realible network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, when we increaase the number of attackres to meet 51% attaque and break BC :
+ 
+
+
+
+
+**************************** we add
+Attacker 6002 with his sensor 
+++++
++++
+++
++
+
+
+>>>>> and we we still that the number of blocks added its the same : --------  BLOCK N= 7--------
+
+
+So we have, 4 Managers and 5 attackers, but with VTA process we see that :
+
+
+
+Manager 6001 :1
+Manager 6002 :1
+Manager 6003 :1
+
+
+CF = 1 just when he new when is join to the network, after that, do not increase
+
+
+
+at high class :
+Rank_A: 4432
+Rank_A: 4434
+
+so we take Randomly to avoid the ... (priort one with others) with R_A of >  80% high
+
+
+So he chose >> MG 4432 >>>
+ Conflit : true
+Manager_RES_NEGAIVE
+
+So the block >> Rejected and we have :
+
+The Ratio is: 0
+Return validate_new_block: false
+
+
+
+
+if we add more attackers >>  20   and the number of manager still 5 >> the network still realible and more then that this attacker >>> elliminte 
+
+
+
+
+
+
+
+
+
+
+
+
